@@ -1,0 +1,15 @@
+SOCIAL BOOSTER AI PRO — SITE OFFICIEL
+
+1. Extraire le ZIP dans un dossier sur Windows (clic droit > Extraire tout).
+2. Ouvrir https://github.com/socialbooster-pro/socialbooster-pro.github.io
+3. Onglet Code > Add file > Upload files. Glisser les 7 fichiers du dossier extrait (pas le ZIP ni le dossier lui-même). Le index.html existant sera remplacé. Commit changes, sur main. Si GitHub propose une branche, la fusionner après vérification.
+4. Settings > Pages : garder main / (root). Laisser Custom domain vide. Attendre la fin du déploiement dans Actions.
+5. Tester en navigation privée :
+https://socialbooster-pro.github.io/
+https://socialbooster-pro.github.io/terms.html
+https://socialbooster-pro.github.io/privacy.html
+https://socialbooster-pro.github.io/contact.html
+
+AVANT LA SOUMISSION TIKTOK
+Les pages légales sont des projets, pas des textes finalisés. Remplacer les mentions à compléter par l'identité légale de l'éditeur, les coordonnées professionnelles, le contact support/confidentialité et confirmer bases légales, destinataires, transferts, conservation, droits et conditions de fourniture. Adapter aux obligations applicables et à la V2 réellement développée et testée. Retirer les notices de brouillon uniquement après validation des informations. Ne pas déclarer la connexion TikTok opérationnelle avant qu'elle le soit. Ne pas publier de fichiers .env, clés ou base de données.
+Dans TikTok Developer, configurer les URL publiques ci-dessus, utiliser Propriétés URL pour suivre les instructions de vérification affichées. Si un fichier de vérification est fourni, l'ajouter à l'emplacement spécifié dans le dépôt. Tester l'intégration en bac à sable et enregistrer une démonstration réelle avant de soumettre. Le site n'effectue aucune connexion OAuth.
